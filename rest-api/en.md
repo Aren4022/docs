@@ -207,7 +207,7 @@ Transfer funds within the Payeer system.
     <tr>
         <td><b>account</b></td>
         <td>Your account number in the Payeer system</td>
-        <td>P1000000</td>
+        <td>P1085825500</td>
     </tr>
     <tr>
         <td><b>apiId</b></td>
@@ -232,7 +232,7 @@ Transfer funds within the Payeer system.
     <tr>
         <td><b>sum</b></td>
         <td>amount withdrawn (the amount deposited will be calculated automatically, factoring in all fees from the recipient)</td>
-        <td>1.00</td>
+        <td>0</td>
     </tr>
     <tr>
         <td><b>curOut</b></td>
@@ -247,7 +247,7 @@ Transfer funds within the Payeer system.
     <tr>
         <td><b>to</b></td>
         <td>user’s Payeer account number or email address (if the email address was not registered before the transfer, the registration will be performed automatically)</td>
-        <td>P1000000, test@mail.com</td>
+        <td>P1085825500 , sianthang402@gmail.com</td>
     </tr>
     <tr>
         <td>comment</td>
