@@ -100,7 +100,7 @@ print sign
 
 headers = {
     'Content-Type': 'application/json',
-    'API-ID': 'bd443f00-092c-4436-92a4-a704ef679e24',
+    'API-ID': '7d1b7015-f7a8-4d59-9c1c-ed779d9aeff8',
     'API-SIGN': sign
 }
 
@@ -117,7 +117,7 @@ print response_body
 var crypto = require('crypto')
 	request = require('request');
 
-apiId = 'bd443f00-092c-4436-92a4-a704ef679e24';
+apiId = '7d1b7015-f7a8-4d59-9c1c-ed779d9aeff8';
 apiSecret = 'api_secret_key';
 
 method = 'account';
@@ -1133,7 +1133,7 @@ Getting the user's balance.<br>
 ```php
 $msec = round(microtime(true) * 1000);
 
-$apiId = 'bd443f00-092c-4436-92a4-a704ef679e24';
+$apiId = '7d1b7015-f7a8-4d59-9c1c-ed779d9aeff8';
 $apiSecret = 'api_secret_key';
 
 $method = 'account';
@@ -1190,7 +1190,7 @@ print sign
 
 headers = {
     'Content-Type': 'application/json',
-    'API-ID': 'bd443f00-092c-4436-92a4-a704ef679e24',
+    'API-ID': '7d1b7015-f7a8-4d59-9c1c-ed779d9aeff8',
     'API-SIGN': sign
 }
 
@@ -1204,8 +1204,8 @@ print response_body
     
     + Headers
 
-            API-ID: bd443f00-092c-4436-92a4-a704ef679e24
-            API-SIGN: f133d2e7a960a3db86052be6d4f7699313e9416bce557868e7ad0f026c67c9ca
+            API-ID: 7d1b7015-f7a8-4d59-9c1c-ed779d9aeff8
+            API-SIGN:
             
     + Body
 
@@ -1399,7 +1399,7 @@ Creating an order of supported types: limit, market, stop limit.<br>
 ```php
 $msec = round(microtime(true) * 1000);
 
-$apiId = 'bd443f00-092c-4436-92a4-a704ef679e24';
+$apiId = '7d1b7015-f7a8-4d59-9c1c-ed779d9aeff8';
 $apiSecret = 'api_secret_key';
 
 $method = 'order_create';
