@@ -1273,15 +1273,15 @@ print response_body
       "available": 0.9981,
       "hold": 0
     },
-    "DOGE": {
+    "DOGE":
       "total": 94.55549964,
       "available": 94.55549964,
       "hold": 0
     },
-    "TRX": {
+    "TRX":
       "total": 223.681806,
       "available": 208.681806,
-      "hold": 15
+      "hold": 201.17490221
     }
   }
 }
